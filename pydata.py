@@ -1,3 +1,4 @@
+
 import csv
 from pprint import pprint as pr
 from matplotlib import pyplot as plt
@@ -11,7 +12,7 @@ pressures_ascending = csvf[1][1:9]
 zeroed_reference = csvf[1]
 pressures_descending = csvf[17][1:9]
 
-poissons = .33
+pois = .33
 youngs = 2e6
 
 # Ascending data. Each variable is the strain gage data
@@ -47,17 +48,17 @@ rosette_B = [a4,a5,a6]
 rosette_C = [a7,a8,a9]
 rosette_D = [a10, a11]
 
-
 # Rosette A calculations.
 def per_col_pres(x):
-    
-    pr(x[0][0])
-    pr(x[1][0])
-    pr(x[2][0])
-
-    pr(x[0][1])
-    pr(x[1][1])
-    pr(x[2][1])
+    col = 0
+    while col < 8:
+        pr(x[0][col])
+        pr(x[1][col])
+        pr(x[2][col])
+        print("\n")
+        col += 1
 
 
 per_col_pres(rosette_A)
+per_col_pres(rosette_B)
+
