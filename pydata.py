@@ -1,3 +1,12 @@
+""" Pulls CSV Data from the file raw_data.csv and sorts
+the values. Rosette A contains values for gages 1-3. B is 4-6,
+C is 7-9, and D is 10 and 11.
+
+"""
+
+
+
+
 import csv
 from pprint import pprint as pr
 from matplotlib import pyplot as plt
@@ -41,8 +50,7 @@ d9 = csvf[53][1:9]
 d10 = csvf[54][1:9]
 d11 = csvf[55][1:9]
 
-# Ascending first. Group the rosettes by the corresponding strain gages. 
-# The first three rosettes have three gages, and the fourth only two. 
+# Ascending first
 rosette_A = [a1,a2,a3]
 rosette_B = [a4,a5,a6]
 rosette_C = [a7,a8,a9]
