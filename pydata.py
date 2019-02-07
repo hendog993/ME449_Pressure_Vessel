@@ -53,11 +53,17 @@ def per_col_pres(x):
     while col < 8:
         pr(x[0][col])
         pr(x[1][col])
-        pr(x[2][col])
+        try:
+            pr(x[2][col])
+        except IndexError:
+            col += 1
+            print("\n")
+            continue
         print("\n")
         col += 1
 
 
 per_col_pres(rosette_A)
 per_col_pres(rosette_B)
-
+per_col_pres(rosette_C)
+per_col_pres(rosette_D)
