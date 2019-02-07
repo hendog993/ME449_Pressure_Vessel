@@ -41,7 +41,8 @@ d9 = csvf[53][1:9]
 d10 = csvf[54][1:9]
 d11 = csvf[55][1:9]
 
-# Ascending first
+# Ascending first. Group the rosettes by the corresponding strain gages. 
+# The first three rosettes have three gages, and the fourth only two. 
 rosette_A = [a1,a2,a3]
 rosette_B = [a4,a5,a6]
 rosette_C = [a7,a8,a9]
