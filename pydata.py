@@ -1,4 +1,3 @@
-
 import csv
 from pprint import pprint as pr
 from matplotlib import pyplot as plt
