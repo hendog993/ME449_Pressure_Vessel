@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}List of Figures}{5}
+\contentsline {section}{\numberline {2}List of Tables}{6}
+\contentsline {section}{\numberline {3}Introduction}{8}
+\contentsline {paragraph}{\numberline {3.0.0.1}Background}{8}
+\contentsline {paragraph}{\numberline {3.0.0.2}Objectives}{8}
+\contentsline {section}{\numberline {4}Methodology}{9}
+\contentsline {paragraph}{\numberline {4.0.0.1}General Overview}{9}
+\contentsline {paragraph}{\numberline {4.0.0.2}Apparatus}{9}
+\contentsline {paragraph}{\numberline {4.0.0.3}Test Procedure}{11}
+\contentsline {paragraph}{\numberline {4.0.0.4}Data Reduction Procedure }{12}
+\contentsline {paragraph}{\numberline {4.0.0.5}Data Validity Checking}{13}
+\contentsline {paragraph}{\numberline {4.0.0.6}Theoretical Measurements}{13}
+\contentsline {paragraph}{\numberline {4.0.0.7}Data Analysis}{13}
+\contentsline {section}{\numberline {5}Results and Discussion}{14}
+\contentsline {paragraph}{\numberline {5.0.0.1}Results}{14}
+\contentsline {paragraph}{\numberline {5.0.0.2}Discussion}{22}
+\contentsline {section}{\numberline {6}Conclusions and Recommendations}{22}
+\contentsline {paragraph}{\numberline {6.0.0.1}Interpretations}{22}
+\contentsline {paragraph}{\numberline {6.0.0.2}Reliability}{23}
+\contentsline {paragraph}{\numberline {6.0.0.3}Placement}{23}
+\contentsline {section}{\numberline {7}What I learned}{24}
+\contentsline {section}{\numberline {8}References}{25}
+\contentsline {section}{\numberline {9}Appendices}{26}
+\contentsline {paragraph}{\numberline {9.0.0.1}Raw Strain Data}{26}
+\contentsline {paragraph}{\numberline {9.0.0.2}Lab Procedure}{27}
+\contentsline {paragraph}{\numberline {9.0.0.3}Equipment Specifications}{28}
+\contentsline {paragraph}{\numberline {9.0.0.4}Hand Sample Calculations}{29}
